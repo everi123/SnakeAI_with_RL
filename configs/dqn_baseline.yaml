@@ -1,0 +1,12 @@
+# --- Experiment Meta Data ---
+EXPERIMENT_NAME: "v0_test"  # <--- CHANGE THIS for every new run!
+
+# --- Hyperparameters ---
+MAX_MEMORY: 100000
+BATCH_SIZE: 1000
+LR: 0.001
+GAMMA: 0.9
+INPUT_SIZE: 11
+HIDDEN_SIZE: 256
+OUTPUT_SIZE: 3
+NUM_GAMES: 200
