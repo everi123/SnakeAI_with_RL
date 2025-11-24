@@ -1,0 +1,19 @@
+{
+    "experiment_name": "v1_test",
+    "mean_score": 35.5,
+    "max_score": 65,
+    "min_score": 14,
+    "std_dev": 15.762296786953353,
+    "raw_scores": [
+        65,
+        44,
+        53,
+        23,
+        17,
+        30,
+        49,
+        14,
+        31,
+        29
+    ]
+}

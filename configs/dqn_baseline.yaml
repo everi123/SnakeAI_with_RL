@@ -1,5 +1,5 @@
 # --- Experiment Meta Data ---
-EXPERIMENT_NAME: "v0_test"  # <--- CHANGE THIS for every new run!
+EXPERIMENT_NAME: "v1_test"  # <--- CHANGE THIS for every new run!
 
 # --- Hyperparameters ---
 MAX_MEMORY: 100000
