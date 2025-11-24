@@ -1,7 +1,9 @@
 # --- Experiment Meta Data ---
-EXPERIMENT_NAME: "v1_test"  # <--- CHANGE THIS for every new run!
+EXPERIMENT_NAME: "v1_production_2k"  # <--- CHANGE THIS for every new run!
 
 # --- Hyperparameters ---
+# Hardcoded default was 80. We increase this so it learns longer.
+EPSILON_DECAY: 600
 MAX_MEMORY: 100000
 BATCH_SIZE: 1000
 LR: 0.001
@@ -9,4 +11,4 @@ GAMMA: 0.9
 INPUT_SIZE: 11
 HIDDEN_SIZE: 256
 OUTPUT_SIZE: 3
-NUM_GAMES: 200
+NUM_GAMES: 2000
